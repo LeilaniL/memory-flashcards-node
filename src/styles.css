@@ -1,0 +1,16 @@
+body {
+  background-color: #7FDBFF;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+
+div {
+  border: 2px black solid;
+}
+.col-md-6 {
+  display: none;
+}
